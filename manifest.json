@@ -1,0 +1,20 @@
+{
+  "id": "com.exalogic.chatgptwidget",
+  "name": "ChatGPT Assistant",
+  "description": "Finance ChatGPT Assistant for SAC Story",
+  "vendor": "Exalogic",
+  "version": "1.0.0",
+  "webcomponents": [
+    {
+      "kind": "main",
+      "url": "https://github.com/Anonymous-DT/SAC-chatbot/blob/main/main.js",
+      "integrity": ""
+    }
+  ],
+  "properties": [],
+  "supports": {
+    "multiple": false,
+    "configurable": false,
+    "interaction": true
+  }
+}
